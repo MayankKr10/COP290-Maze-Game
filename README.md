@@ -14,11 +14,13 @@ Game installation and running:
 	mkdir build && cd build
 
 2.	Use the following commands for installation and running:
-	cmake .. && make
-	./MazeGame
+	Build - cmake .. && make	
+	Run - ./MazeGame
 
 Resources and links:
 	Maze generation - https://github.com/alinp25/MazeGenerator
+	
 	Cmake script for SDL2 -  https://github.com/tcbrindle/sdl2-cmake-scripts
+	
 	Game idea - https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl
 
