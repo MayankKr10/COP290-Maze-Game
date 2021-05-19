@@ -15,6 +15,7 @@ mkdir build && cd build
 
 2.	Use the following commands for installation and running:
 cmake .. && make
+
 ./MazeGame
 
 Resources and links:
