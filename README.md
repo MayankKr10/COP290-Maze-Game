@@ -19,8 +19,6 @@ cmake .. && make
 
 Resources and links:
 Maze generation - https://github.com/alinp25/MazeGenerator
-
 Cmake script for SDL2 -  https://github.com/tcbrindle/sdl2-cmake-scripts
-
 Game idea - https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl
 
